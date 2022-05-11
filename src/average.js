@@ -10,9 +10,17 @@
     - average([1, 1]) // Retorno: 1;
     - average([1, '2']) // Retorno: undefined;
 */
+const average = (array) => {
+let summ = 0;
+  for (let index = 0; index < array.length; index += 1) {
+    summ += array[index];
+  }
+    return summ / array.length;
+  };
+ // if (typeof array === 'number') {
+  // return undefined;
+// };
 
-const average = () => {
-  //iniciando o projeto :rocket:
-};
+console.log(average([-1, '2']));
 
 module.exports = average;

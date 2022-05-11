@@ -16,6 +16,10 @@
       #VQV!'
 */
 
-const vqv = () => {};
+const vqv = () => {
+  if (vqv() === 0) {
+    return undefined;
+  }
+};
 
 module.exports = vqv;

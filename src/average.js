@@ -24,6 +24,4 @@ if (array.length === 0) {
     return Math.round(summ / array.length);
   };
 
-console.log(average([1, '2']));
-
 module.exports = average;

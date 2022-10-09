@@ -1,4 +1,4 @@
-# Boas-vindas ao repositório do projeto Star Wars Planets Search!
+# Boas-vindas ao repositório do projeto Js Unit tests!
 
 Este projeto foi realizado individualmente e desenvolvido em 02 dias.
 

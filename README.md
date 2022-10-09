@@ -14,6 +14,22 @@ Neste projeto implementei várias funções na resolução dos requisitos propos
 </details>
 
 <details>
+  <summary><strong>:memo: Implementações </strong></summary><br />
+
+* função average
+* casos de teste para a função numbers
+* função vqv
+* casos de teste para a função circle
+* função createStudent
+* casos de teste para a função productDetails
+* funções calculator e arrayGenerator (não realizada)
+* função myCounter
+* casos de teste para a função getCharacter
+* função createMenu, bem como seus casos de teste (não realizada)
+
+</details>
+
+<details>
   <summary><strong>:memo: Instruções para rodar essa aplicação</strong></summary><br />
 
 Crie um fork desse projeto e para isso siga esse [tutorial de como realizar um fork](https://guides.github.com/activities/forking/).
